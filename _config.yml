@@ -8,7 +8,7 @@ url: "https://mridul-qm.github.io/mridul.github.io/" # the base hostname & proto
 theme: Architect
 
 plugins: 
-    -jekyll-feed
+  -jekyll-feed
 
 # Build settings
 markdown: kramdown
